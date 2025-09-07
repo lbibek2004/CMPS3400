@@ -1,0 +1,13 @@
+Group F
+Joshua McNeely, w0760168
+
+MUTABLE OBJECT TYPES	
+Set
+Dict
+List
+
+
+IMMUTABLE OBJECT TYPES
+Number (int, float, complex)
+Tuple
+String
