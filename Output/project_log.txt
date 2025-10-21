@@ -1,0 +1,62 @@
+2025-10-20 22:31:42,851 - INFO - Logging initialized.
+2025-10-20 22:31:42,852 - INFO - Starting Data Insights Analyzer
+2025-10-20 22:31:43,154 - INFO - Saved pass/fail distribution to ./Output/plots/pass_fail_distribution.png
+2025-10-20 22:31:43,557 - INFO - Saved average_all_bar to ./Output/plots/average_all_bar.png
+2025-10-20 22:31:43,561 - INFO - Exported class stats to ./Output/results/class_statistics.csv
+2025-10-20 22:31:43,565 - INFO - Exported study averages to ./Output/results/study_averages.csv
+2025-10-20 22:31:43,567 - INFO - Class statistics summary:
+2025-10-20 22:31:43,568 - INFO - {
+  "Exam_1": {
+    "mean": 74.57692307692308,
+    "median": 75.5,
+    "std": 15.023310193510529
+  },
+  "Exam_2": {
+    "mean": 75.11538461538461,
+    "median": 76.5,
+    "std": 14.673777927742394
+  },
+  "Exam_3": {
+    "mean": 74.07692307692308,
+    "median": 74.5,
+    "std": 15.349326042362614
+  },
+  "Average": {
+    "mean": 74.58974358974359,
+    "median": 76.0,
+    "std": 12.789840634752897
+  },
+  "top_5": [
+    {
+      "W_Number": "w0775418",
+      "First_Name": "Bibek",
+      "Last_Name": "Luitel",
+      "Average": 92.33333333333333
+    },
+    {
+      "W_Number": "w07750005",
+      "First_Name": "Riley",
+      "Last_Name": "Garcia",
+      "Average": 89.66666666666667
+    },
+    {
+      "W_Number": "w07750004",
+      "First_Name": "Casey",
+      "Last_Name": "Jones",
+      "Average": 89.0
+    },
+    {
+      "W_Number": "w07750048",
+      "First_Name": "Priya",
+      "Last_Name": "Carter",
+      "Average": 87.33333333333333
+    },
+    {
+      "W_Number": "w07750025",
+      "First_Name": "Lucas",
+      "Last_Name": "Sanchez",
+      "Average": 84.66666666666667
+    }
+  ]
+}
+2025-10-20 22:31:43,568 - INFO - Program completed successfully.
